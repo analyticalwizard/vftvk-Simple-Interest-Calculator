@@ -7,6 +7,7 @@ function compute()
 
     if (principal=="") //validating non-zero value
     {
+        
         alert("Please enter a positive number");
         document.getElementById("principal").value='';
         document.getElementById("principal").focus();
