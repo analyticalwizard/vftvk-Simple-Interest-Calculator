@@ -1,5 +1,35 @@
-body {background-color:black; font:arial font color:white}
+body {background-color:black; font:arial; font color:white}
 h1{color:grey; font:verdana}
-div.maindiv{background-color:white; font color:black; width:300px; padding:20px; border:25px;align:center}
+div.maindiv
+{
+    background-color:white;
+    font-family:arial, Helvetica, sans-serif;
+    font color:black; 
+    width:300px; 
+    padding:20px;
+    padding-left:50px;
+    border-radius:25px;
+    margin:auto;
+}
+
+div.form
+{
+    padding-left:50px;
+    margin:auto;
+    font-family:arial, Helvetica, sans-serif;
+}
+
+button
+{
+    background-color: #008CBA;
+    border:none;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    padding: 7px;
+    text-decoration: none;
+    display: inline-block;
+
+}
 
 
